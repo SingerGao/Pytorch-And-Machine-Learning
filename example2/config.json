@@ -1,0 +1,11 @@
+{
+    "model_name": "cnn",
+    "train_data_folder": "./flower_dataset/",
+    "num_workers": 8,
+    "output_dir": "./outputs/",
+    "model": "cnn",
+    "batch_size": 32,
+    "lr": 5e-3,
+    "num_epochs": 200,
+    "print_freq": 10
+}
